@@ -1,0 +1,482 @@
+[
+    {
+        "coin_name": "\nEOS\n",
+        "abbreviated_name": "(EOS)",
+        "amount": "2.63",
+        "difference": null,
+        "value": "\n0.00069658\n",
+        "rank": " Rank 5"
+    },
+    {
+        "coin_name": "\nBinance Coin\n",
+        "abbreviated_name": "(BNB)",
+        "amount": "6.11",
+        "difference": null,
+        "value": "\n0.00155873\n",
+        "rank": " Rank 14"
+    },
+    {
+        "coin_name": "\nTether\n",
+        "abbreviated_name": "(USDT)",
+        "amount": "1.01",
+        "difference": "-0.39",
+        "value": "\n0.00026938\n",
+        "rank": " Rank 7"
+    },
+    {
+        "coin_name": "\nBitcoin\n",
+        "abbreviated_name": "(BTC)",
+        "amount": "3763.14",
+        "difference": "-0.73",
+        "value": "\n1.00\n",
+        "rank": " Rank 1"
+    },
+    {
+        "coin_name": "\nEthereum\n",
+        "abbreviated_name": "(ETH)",
+        "amount": "139.89",
+        "difference": null,
+        "value": "\n0.03714112\n",
+        "rank": " Rank 3"
+    },
+    {
+        "coin_name": "\nMonero\n",
+        "abbreviated_name": "(XMR)",
+        "amount": "48.18",
+        "difference": "-1.09",
+        "value": "\n0.01245775\n",
+        "rank": " Rank 13"
+    },
+    {
+        "coin_name": "\nXRP\n",
+        "abbreviated_name": "(XRP)",
+        "amount": "0.376038",
+        "difference": null,
+        "value": "\n0.00009531\n",
+        "rank": " Rank 2"
+    },
+    {
+        "coin_name": "\nZcoin\n",
+        "abbreviated_name": "(XZC)",
+        "amount": "5.43",
+        "difference": "-0.72",
+        "value": "\n0.00140143\n",
+        "rank": " Rank 93"
+    },
+    {
+        "coin_name": "\nTHETA\n",
+        "abbreviated_name": "(THETA)",
+        "amount": "0.049800",
+        "difference": "-0.79",
+        "value": "\n0.00001314\n",
+        "rank": " Rank 98"
+    },
+    {
+        "coin_name": "\nSTASIS EURS\n",
+        "abbreviated_name": "(EURS)",
+        "amount": "1.12",
+        "difference": "-0.69",
+        "value": "\n0.00029590\n",
+        "rank": " Rank 99"
+    },
+    {
+        "coin_name": "\nBitcoin Cash\n",
+        "abbreviated_name": "(BCH)",
+        "amount": "160.12",
+        "difference": "-0.61",
+        "value": "\n0.04186655\n",
+        "rank": " Rank 4"
+    },
+    {
+        "coin_name": "\nDash\n",
+        "abbreviated_name": "(DASH)",
+        "amount": "80.08",
+        "difference": "-2.23",
+        "value": "\n0.02114546\n",
+        "rank": " Rank 15"
+    },
+    {
+        "coin_name": "\nDigixDAO\n",
+        "abbreviated_name": "(DGD)",
+        "amount": "19.96",
+        "difference": null,
+        "value": "\n0.00507636\n",
+        "rank": " Rank 88"
+    },
+    {
+        "coin_name": "\nMOAC\n",
+        "abbreviated_name": "(MOAC)",
+        "amount": "0.598146",
+        "difference": "-0.46",
+        "value": "\n0.00015469\n",
+        "rank": " Rank 95"
+    },
+    {
+        "coin_name": "\nMaximine Coin\n",
+        "abbreviated_name": "(MXM)",
+        "amount": "0.005513",
+        "difference": "-16.94",
+        "value": "\n0.00000150\n",
+        "rank": " Rank 259"
+    },
+    {
+        "coin_name": "\nVeritaseum\n",
+        "abbreviated_name": "(VERI)",
+        "amount": "16.78",
+        "difference": null,
+        "value": "\n0.00449406\n",
+        "rank": " Rank 92"
+    },
+    {
+        "coin_name": "\nHyperCash\n",
+        "abbreviated_name": "(HC)",
+        "amount": "0.875613",
+        "difference": null,
+        "value": "\n0.00023110\n",
+        "rank": " Rank 89"
+    },
+    {
+        "coin_name": "\nAion\n",
+        "abbreviated_name": "(AION)",
+        "amount": "0.151449",
+        "difference": null,
+        "value": "\n0.00003997\n",
+        "rank": " Rank 80"
+    },
+    {
+        "coin_name": "\nBancor\n",
+        "abbreviated_name": "(BNT)",
+        "amount": "0.632848",
+        "difference": "-1.12",
+        "value": "\n0.00016769\n",
+        "rank": " Rank 85"
+    },
+    {
+        "coin_name": "\nIOTA\n",
+        "abbreviated_name": "(MIOTA)",
+        "amount": "0.370231",
+        "difference": "-3.51",
+        "value": "\n0.00009776\n",
+        "rank": " Rank 12"
+    },
+    {
+        "coin_name": "\nBuggyra Coin Zero\n",
+        "abbreviated_name": "(BCZERO)",
+        "amount": "0.009665",
+        "difference": "-1.75",
+        "value": "\n0.00000234\n",
+        "rank": " Rank 182"
+    },
+    {
+        "coin_name": "\nWaltonchain\n",
+        "abbreviated_name": "(WTC)",
+        "amount": "1.11",
+        "difference": "-2.79",
+        "value": "\n0.00029273\n",
+        "rank": " Rank 77"
+    },
+    {
+        "coin_name": "\nArk\n",
+        "abbreviated_name": "(ARK)",
+        "amount": "0.386167",
+        "difference": null,
+        "value": "\n0.00010245\n",
+        "rank": " Rank 81"
+    },
+    {
+        "coin_name": "\nPIVX\n",
+        "abbreviated_name": "(PIVX)",
+        "amount": "0.742205",
+        "difference": "-3.54",
+        "value": "\n0.00019197\n",
+        "rank": " Rank 84"
+    },
+    {
+        "coin_name": "\nKuCoin Shares\n",
+        "abbreviated_name": "(KCS)",
+        "amount": "0.603713",
+        "difference": "-2.40",
+        "value": "\n0.00016131\n",
+        "rank": " Rank 66"
+    },
+    {
+        "coin_name": "\nCryptonex\n",
+        "abbreviated_name": "(CNX)",
+        "amount": "1.11",
+        "difference": "-1.65",
+        "value": "\n0.00029338\n",
+        "rank": " Rank 63"
+    },
+    {
+        "coin_name": "\nMaidSafeCoin\n",
+        "abbreviated_name": "(MAID)",
+        "amount": "0.142889",
+        "difference": null,
+        "value": "\n0.00003655\n",
+        "rank": " Rank 62"
+    },
+    {
+        "coin_name": "\nStatus\n",
+        "abbreviated_name": "(SNT)",
+        "amount": "0.018101",
+        "difference": "-2.19",
+        "value": "\n0.00000458\n",
+        "rank": " Rank 64"
+    },
+    {
+        "coin_name": "\nGolem\n",
+        "abbreviated_name": "(GNT)",
+        "amount": "0.069166",
+        "difference": "-7.68",
+        "value": "\n0.00001825\n",
+        "rank": " Rank 60"
+    },
+    {
+        "coin_name": "\nAurora\n",
+        "abbreviated_name": "(AOA)",
+        "amount": "0.010374",
+        "difference": "-7.97",
+        "value": "\n0.00000274\n",
+        "rank": " Rank 58"
+    },
+    {
+        "coin_name": "\nDai\n",
+        "abbreviated_name": "(DAI)",
+        "amount": "1.01",
+        "difference": null,
+        "value": "\n0.00026743\n",
+        "rank": " Rank 57"
+    },
+    {
+        "coin_name": "\nIOST\n",
+        "abbreviated_name": "(IOST)",
+        "amount": "0.005642",
+        "difference": null,
+        "value": "\n0.00000149\n ",
+        "rank": " Rank 59"
+    },
+    {
+        "coin_name": "\nBytom\n",
+        "abbreviated_name": "(BTM)",
+        "amount": "0.078637",
+        "difference": "-2.44",
+        "value": "\n0.00002075\n",
+        "rank": " Rank 54"
+    },
+    {
+        "coin_name": "\nFactom\n",
+        "abbreviated_name": "(FCT)",
+        "amount": "7.91",
+        "difference": "-4.23",
+        "value": "\n0.00208832\n",
+        "rank": " Rank 58"
+    },
+    {
+        "coin_name": "\nPopulous\n",
+        "abbreviated_name": "(PPT)",
+        "amount": "1.53",
+        "difference": null,
+        "value": "\n0.00039501\n",
+        "rank": " Rank 54"
+    },
+    {
+        "coin_name": "\nKomodo\n",
+        "abbreviated_name": "(KMD)",
+        "amount": "0.753933",
+        "difference": "-2.49",
+        "value": "\n0.00019898\n",
+        "rank": " Rank 52"
+    },
+    {
+        "coin_name": "\nAugur\n",
+        "abbreviated_name": "(REP)",
+        "amount": "8.78",
+        "difference": null,
+        "value": "\n0.00231825\n",
+        "rank": " Rank 48"
+    },
+    {
+        "coin_name": "\nAeternity\n",
+        "abbreviated_name": "(AE)",
+        "amount": "0.409616",
+        "difference": "-2.82",
+        "value": "\n0.00010693\n",
+        "rank": " Rank 47"
+    },
+    {
+        "coin_name": "\nChainlink\n",
+        "abbreviated_name": "(LINK)",
+        "amount": "0.294151",
+        "difference": null,
+        "value": "\n0.00007519\n",
+        "rank": " Rank 46"
+    },
+    {
+        "coin_name": "\nNano\n",
+        "abbreviated_name": "(NANO)",
+        "amount": "0.910030",
+        "difference": "-3.49",
+        "value": "\n0.00024019\n",
+        "rank": " Rank 41"
+    },
+    {
+        "coin_name": "\nDigiByte\n",
+        "abbreviated_name": "(DGB)",
+        "amount": "0.010740",
+        "difference": "-0.87",
+        "value": "\n0.00000283\n",
+        "rank": " Rank 42"
+    },
+    {
+        "coin_name": "\nBytecoin\n",
+        "abbreviated_name": "(BCN)",
+        "amount": "0.000711",
+        "difference": "-0.29",
+        "value": "\n0.00000018\n",
+        "rank": " Rank 38"
+    },
+    {
+        "coin_name": "\nBitcoin Diamond\n",
+        "abbreviated_name": "(BCD)",
+        "amount": "0.915645",
+        "difference": "-1.74",
+        "value": "\n0.00023919\n",
+        "rank": " Rank 37"
+    },
+    {
+        "coin_name": "\nBitShares\n",
+        "abbreviated_name": "(BTS)",
+        "amount": "0.040230",
+        "difference": null,
+        "value": "\n 0.00001019\n",
+        "rank": " Rank 45"
+    },
+    {
+        "coin_name": "\nDecred\n",
+        "abbreviated_name": "(DCR)",
+        "amount": "17.71",
+        "difference": null,
+        "value": "\n0.00456765\n",
+        "rank": " Rank 34"
+    },
+    {
+        "coin_name": "\nBasic Attention Token\n",
+        "abbreviated_name": "(BAT)",
+        "amount": "0.131414",
+        "difference": null,
+        "value": "\n0.00003418\n",
+        "rank": " Rank 34"
+    },
+    {
+        "coin_name": "\nLisk\n",
+        "abbreviated_name": "(LSK)",
+        "amount": "1.34",
+        "difference": "-2.52",
+        "value": "\n0.00035408\n",
+        "rank": " Rank 35"
+    },
+    {
+        "coin_name": "\nQtum\n",
+        "abbreviated_name": "(QTUM)",
+        "amount": "2.27",
+        "difference": null,
+        "value": "\n0.00058687\n",
+        "rank": " Rank 29"
+    },
+    {
+        "coin_name": "\nVeChain\n",
+        "abbreviated_name": "(VET)",
+        "amount": "0.004115",
+        "difference": null,
+        "value": "\n0.00000107\n",
+        "rank": " Rank 26"
+    },
+    {
+        "coin_name": "\nTrueUSD\n",
+        "abbreviated_name": "(TUSD)",
+        "amount": "1.01",
+        "difference": null,
+        "value": "\n0.00026915\n",
+        "rank": " Rank 27"
+    },
+    {
+        "coin_name": "\nOmiseGO\n",
+        "abbreviated_name": "(OMG)",
+        "amount": "1.34",
+        "difference": "-5.07",
+        "value": "\n0.00036027\n",
+        "rank": " Rank 29"
+    },
+    {
+        "coin_name": "\nTezos\n",
+        "abbreviated_name": "(XTZ)",
+        "amount": "0.482671",
+        "difference": null,
+        "value": "\n0.00012739\n",
+        "rank": " Rank 22"
+    },
+    {
+        "coin_name": "\nUSD Coin\n",
+        "abbreviated_name": "(USDC)",
+        "amount": "1.02",
+        "difference": null,
+        "value": "\n0.00027039\n",
+        "rank": " Rank 24"
+    },
+    {
+        "coin_name": "\nDogecoin\n",
+        "abbreviated_name": "(DOGE)",
+        "amount": "0.002353",
+        "difference": "-1.14",
+        "value": "\n0.00000062\n",
+        "rank": " Rank 23"
+    },
+    {
+        "coin_name": "\nMaker\n",
+        "abbreviated_name": "(MKR)",
+        "amount": "458.21",
+        "difference": "-0.05",
+        "value": "\n0.11735176\n",
+        "rank": " Rank 20"
+    },
+    {
+        "coin_name": "\nEthereum Classic\n",
+        "abbreviated_name": "(ETC)",
+        "amount": "5.11",
+        "difference": "-1.00",
+        "value": "\n0.00134783\n",
+        "rank": " Rank 17"
+    },
+    {
+        "coin_name": "\nZcash\n",
+        "abbreviated_name": "(ZEC)",
+        "amount": "57.17",
+        "difference": "-2.29",
+        "value": "\n0.01508931\n",
+        "rank": " Rank 20"
+    },
+    {
+        "coin_name": "\nBitcoin Gold\n",
+        "abbreviated_name": "(BTG)",
+        "amount": "13.56",
+        "difference": "-3.16",
+        "value": "\n0.00354250\n",
+        "rank": " Rank 25"
+    },
+    {
+        "coin_name": "\nNEO\n",
+        "abbreviated_name": "(NEO)",
+        "amount": "7.81",
+        "difference": "-1.92",
+        "value": "\n0.00204180\n",
+        "rank": " Rank 18"
+    },
+    {
+        "coin_name": "\nSiacoin\n",
+        "abbreviated_name": "(SC)",
+        "amount": "0.002823",
+        "difference": null,
+        "value": "\n0.00000071\n",
+        "rank": " Rank 45"
+    }
+]
